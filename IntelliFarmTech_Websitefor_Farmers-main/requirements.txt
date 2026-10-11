@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+Pillow
+seaborn
+matplotlib
+plotly
+scikit-learn
+cython
+setuptools
